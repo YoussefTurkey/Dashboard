@@ -93,7 +93,7 @@ submit.onclick = function(){
 
     // Clearing Inputs
 function clearData(){
-    name.title = title.value = count.value = category.value = '';
+    name.value = title.value = count.value = category.value = '';
 }
 
     // Diplaying data on Screen
